@@ -1,0 +1,4 @@
+hostname        = "terraform.yoyodyne.com"
+token           = "kIOeyG1R2SIgDQ.atlasv1.MpSD......"
+org_name        = "Yoyodyne-Propulsion-System"
+owner_email     = "john@yoyodyne.com"
